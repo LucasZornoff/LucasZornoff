@@ -18,7 +18,8 @@
   <img align="center" alt="farm-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="farm-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="farm-Unix" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg">
-  <img align="right" alt="farm-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e0110762dc62408ccb0dc936854e332d.gif">
+  <!-- <img align="right" alt="farm-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/e0110762dc62408ccb0dc936854e332d.gif"> -->
+    
 </div>
   
   ##
